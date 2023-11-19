@@ -1,0 +1,10 @@
+{
+  "name": "node-http-proxy",
+  "version": "1.0.0",
+  "description": "Simple HTTP(S) proxy server using NodeJS.",
+  "main": "index.js",
+  "repository": "https://github.com/dianudi/node-http-proxy.git",
+  "author": "dianudi",
+  "license": "MIT",
+  "type": "module"
+}
